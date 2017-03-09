@@ -27,7 +27,7 @@
     "preset": "react-native"
   },
   "engines": {
-  "node": "0.10.41",
-  "npm": "1.4.29"
+  "node": "5.10.1",
+  "npm": "3.8.3"
 }
 }
